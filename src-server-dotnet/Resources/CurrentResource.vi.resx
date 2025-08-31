@@ -1,0 +1,1257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="(Not yet)" xml:space="preserve">
+    <value>(Chưa có)</value>
+  </data>
+  <data name="A service with this resource and period" xml:space="preserve">
+    <value>Một dịch vụ với tính năng và kỳ hạn này</value>
+  </data>
+  <data name="Accumulated points" xml:space="preserve">
+    <value>Điểm tích lũy</value>
+  </data>
+  <data name="Address" xml:space="preserve">
+    <value>Địa chỉ</value>
+  </data>
+  <data name="All customers who have been selected cannot select additional customers." xml:space="preserve">
+    <value>Khách hàng đã được chọn tất cả không được chọn thêm khách hàng khác.</value>
+  </data>
+  <data name="All items/combo items are selected, no other items can be selected." xml:space="preserve">
+    <value>Sản phẩm/gói sản phẩm được chọn tất cả không được chọn thêm loại khác.</value>
+  </data>
+  <data name="All loyal classes have been selected and cannot select other types of loyalty classes." xml:space="preserve">
+    <value>Khách hàng thân thiết đã được chọn tất cả không được chọn thêm loại khách hàng khác.</value>
+  </data>
+  <data name="Amount" xml:space="preserve">
+    <value>Thành tiền</value>
+  </data>
+  <data name="Attribute" xml:space="preserve">
+    <value>Thông tin thuộc tính</value>
+  </data>
+  <data name="Attribute code" xml:space="preserve">
+    <value>Mã thuộc tính</value>
+  </data>
+  <data name="Attribute value" xml:space="preserve">
+    <value>Giá trị thuộc tính</value>
+  </data>
+  <data name="Attribute value type" xml:space="preserve">
+    <value>Kiểu giá trị thuộc tính</value>
+  </data>
+  <data name="AutomaticReceipt" xml:space="preserve">
+    <value>Phiếu thu tự động khi thanh toán  đơn hàng với mã {0}</value>
+  </data>
+  <data name="Can not update program because startTime less than the current date" xml:space="preserve">
+    <value>Không thể cập nhật chương trình khuyến mãi có thời gian bắt đầu bé hơn thời gian hiện tại.</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Đã hủy</value>
+  </data>
+  <data name="Canceled" xml:space="preserve">
+    <value>{0} đã hủy</value>
+  </data>
+  <data name="CannotApplyWith" xml:space="preserve">
+    <value>Không thể áp dụng mã {0} cùng với các mã khác</value>
+  </data>
+  <data name="CanNotCancel" xml:space="preserve">
+    <value>Không thể hủy {0}</value>
+  </data>
+  <data name="CannotChangeOnePriceTimeToMultiple" xml:space="preserve">
+    <value>Không thể đổi một thời điểm sử dụng giá thành nhiều thời điểm khác nhau</value>
+  </data>
+  <data name="CannotComplete" xml:space="preserve">
+    <value>Không thể xóa {0}</value>
+  </data>
+  <data name="CannotCreateOrChange" xml:space="preserve">
+    <value>Không thể tạo mới hoặc thay đổi {0}</value>
+  </data>
+  <data name="CannotDelete" xml:space="preserve">
+    <value>Không thể xóa {0}</value>
+  </data>
+  <data name="CannotDowngratedLoyaltyClass" xml:space="preserve">
+    <value>Không thể hạ hạng thành viên nếu đã có tích điểm</value>
+  </data>
+  <data name="CannotUpdate" xml:space="preserve">
+    <value>Không thể cập nhật {0}</value>
+  </data>
+  <data name="CannotUseWith" xml:space="preserve">
+    <value>{0} không thể sử dụng với {1}</value>
+  </data>
+  <data name="Cashbook For" xml:space="preserve">
+    <value>Lý do nộp</value>
+  </data>
+  <data name="Combo item" xml:space="preserve">
+    <value>Gói sản phẩm</value>
+  </data>
+  <data name="Combo service" xml:space="preserve">
+    <value>Gói dịch vụ</value>
+  </data>
+  <data name="Common Attribute" xml:space="preserve">
+    <value>Thuộc tính chung</value>
+  </data>
+  <data name="Completed" xml:space="preserve">
+    <value>{0} đã hoàn thành</value>
+  </data>
+  <data name="Could not find the product to add to the cart" xml:space="preserve">
+    <value>Không tìm thấy sản phẩm cần thêm vào giỏ hàng</value>
+  </data>
+  <data name="CreatedSuccess" xml:space="preserve">
+    <value>Tạo {0} thành công</value>
+  </data>
+  <data name="CSV file reading error" xml:space="preserve">
+    <value>Đọc csv thất bại</value>
+  </data>
+  <data name="Default loyalty class" xml:space="preserve">
+    <value>Hạng thành viên mặc định</value>
+  </data>
+  <data name="Discount" xml:space="preserve">
+    <value>Giảm giá</value>
+  </data>
+  <data name="Documents" xml:space="preserve">
+    <value>Chứng từ</value>
+  </data>
+  <data name="DoNotMatch" xml:space="preserve">
+    <value>{0} và {1} không khớp</value>
+  </data>
+  <data name="Duplicate" xml:space="preserve">
+    <value>Trùng {0}</value>
+  </data>
+  <data name="Exceeded character limit" xml:space="preserve">
+    <value>Vượt quá giới hạn cho phép</value>
+  </data>
+  <data name="Excel file reading error" xml:space="preserve">
+    <value>Đọc excel thấy bại</value>
+  </data>
+  <data name="ExpenseEndDate" xml:space="preserve">
+    <value>Ngày kết thúc tính tổng chi tiêu</value>
+  </data>
+  <data name="ExpenseStartDate" xml:space="preserve">
+    <value>Ngày bắt đầu tính tổng chỉ tiêu</value>
+  </data>
+  <data name="Expiration" xml:space="preserve">
+    <value>Kỳ hạn</value>
+  </data>
+  <data name="For quantity discounts, you can only choose one item" xml:space="preserve">
+    <value>Đối với loại giảm giá theo số lượng mua bạn chỉ được chọn một sản phẩm</value>
+  </data>
+  <data name="Full name of payer" xml:space="preserve">
+    <value>Họ và tên người chi</value>
+  </data>
+  <data name="Full name of submitter" xml:space="preserve">
+    <value>Họ và tên người nộp</value>
+  </data>
+  <data name="Gift item" xml:space="preserve">
+    <value>Sản phẩm tặng</value>
+  </data>
+  <data name="Import successfully" xml:space="preserve">
+    <value>Nhập dữ liệu thành công</value>
+  </data>
+  <data name="InUse" xml:space="preserve">
+    <value>{0} đang được sử dụng</value>
+  </data>
+  <data name="Invalid" xml:space="preserve">
+    <value>{0} không hợp lệ</value>
+  </data>
+  <data name="Invalid discount form. Discounts can only be given in one of two forms: percentage or cash." xml:space="preserve">
+    <value>Hình thức giảm giá không hợp lệ. Chỉ có thể giảm giá bằng một trong hai hình thức là phần trăm hoặc tiền mặt.</value>
+  </data>
+  <data name="InvalidRequest" xml:space="preserve">
+    <value>Yêu cầu không hợp lệ</value>
+  </data>
+  <data name="Invoice" xml:space="preserve">
+    <value>Hóa đơn</value>
+  </data>
+  <data name="Invoice date" xml:space="preserve">
+    <value>Ngày xuất hóa đơn</value>
+  </data>
+  <data name="IsExist" xml:space="preserve">
+    <value>{0} đã tồn tại</value>
+  </data>
+  <data name="IsRequired" xml:space="preserve">
+    <value>{0} là bắt buộc</value>
+  </data>
+  <data name="It is not possible to select additional groups when the apply on all groups check box is selected" xml:space="preserve">
+    <value>Không thể chọn thêm nhóm khi đã đánh dấu áp dụng trên tất cả nhóm</value>
+  </data>
+  <data name="Item" xml:space="preserve">
+    <value>Sản phẩm</value>
+  </data>
+  <data name="Item name" xml:space="preserve">
+    <value>Tên sản phẩm</value>
+  </data>
+  <data name="Item sku" xml:space="preserve">
+    <value>Mã sản phẩm</value>
+  </data>
+  <data name="Item type" xml:space="preserve">
+    <value>Loại sản phẩm</value>
+  </data>
+  <data name="ItemId" xml:space="preserve">
+    <value>Mã định danh sản phẩm</value>
+  </data>
+  <data name="ItemPriceId" xml:space="preserve">
+    <value>Mã định danh thiết lập giá</value>
+  </data>
+  <data name="Loyalty class" xml:space="preserve">
+    <value>Hạng thành viên</value>
+  </data>
+  <data name="LoyaltyClass" xml:space="preserve">
+    <value>Hạng thành viên</value>
+  </data>
+  <data name="Maximum 1000 lines" xml:space="preserve">
+    <value>Giới hạn nhập tối đa là 1000 dòng</value>
+  </data>
+  <data name="Membership sku" xml:space="preserve">
+    <value>Mã gói thành viên</value>
+  </data>
+  <data name="MembershipId" xml:space="preserve">
+    <value>Mã định danh gói thành viên</value>
+  </data>
+  <data name="NameExist" xml:space="preserve">
+    <value>Đã tồn tại tên: {0}</value>
+  </data>
+  <data name="New" xml:space="preserve">
+    <value>Mới</value>
+  </data>
+  <data name="NoConversionUnit" xml:space="preserve">
+    <value>Chưa có đơn vị quy đổi cho {0}</value>
+  </data>
+  <data name="NoPaymentConfigurationFound" xml:space="preserve">
+    <value>Không tìm thấy cấu hình {0} trong hệ thống. Bạn vui lòng liên hệ quản trị viên để được hỗ trợ.</value>
+  </data>
+  <data name="NoPermission" xml:space="preserve">
+    <value>Rất tiếc, bạn không có quyền</value>
+  </data>
+  <data name="NotEnoughToUse" xml:space="preserve">
+    <value>{0} không đủ để sử dụng</value>
+  </data>
+  <data name="NotFound" xml:space="preserve">
+    <value>Không tìm thấy {0}</value>
+  </data>
+  <data name="NotMeetCondition" xml:space="preserve">
+    <value>{0} không thỏa điều kiện</value>
+  </data>
+  <data name="NotNull" xml:space="preserve">
+    <value>{0} không thể để trống</value>
+  </data>
+  <data name="NotValid" xml:space="preserve">
+    <value>{0} không hợp lệ</value>
+  </data>
+  <data name="Order" xml:space="preserve">
+    <value>Đơn hàng</value>
+  </data>
+  <data name="Order No" xml:space="preserve">
+    <value>Mã số đơn hàng</value>
+  </data>
+  <data name="OrderDetail" xml:space="preserve">
+    <value>Chi tiết đơn hàng</value>
+  </data>
+  <data name="OrderNotEligible" xml:space="preserve">
+    <value>Đơn hàng của bạn không đủ điều kiện để áp dụng mã: {0}</value>
+  </data>
+  <data name="OrderPaid" xml:space="preserve">
+    <value>Đơn hàng đã được thanh toán trước đó</value>
+  </data>
+  <data name="OrderNotPaid" xml:space="preserve">
+    <value>Đơn hàng chưa được thanh toán</value>
+  </data>
+  <data name="OrderPendingPayment" xml:space="preserve">
+    <value>Đơn hàng đang chờ thanh toán</value>
+  </data>
+  <data name="OrganizationId" xml:space="preserve">
+    <value>Mã định danh tổ chức</value>
+  </data>
+  <data name="Out of vouchers to give to this customer" xml:space="preserve">
+    <value>Đã hết voucher để tặng cho khách hàng này</value>
+  </data>
+  <data name="Paid" xml:space="preserve">
+    <value>Đã thanh toán</value>
+  </data>
+  <data name="Paid by" xml:space="preserve">
+    <value>Thanh toán bởi</value>
+  </data>
+  <data name="Partner" xml:space="preserve">
+    <value>Khách hàng</value>
+  </data>
+  <data name="Partner user" xml:space="preserve">
+    <value>Partner user</value>
+  </data>
+  <data name="Partner code" xml:space="preserve">
+    <value>Mã khách hàng</value>
+  </data>
+  <data name="Past prices cannot be deleted" xml:space="preserve">
+    <value>Không thể xóa giá trong quá khứ</value>
+  </data>
+  <data name="payment session" xml:space="preserve">
+    <value>phiên thanh toán</value>
+  </data>
+  <data name="Payment status" xml:space="preserve">
+    <value>Trạng thái phiên giao dịch</value>
+  </data>
+  <data name="Payment voucher" xml:space="preserve">
+    <value>Phiếu chi</value>
+  </data>
+  <data name="Payment voucher status" xml:space="preserve">
+    <value>Trạng thái phiếu chi</value>
+  </data>
+  <data name="Pending" xml:space="preserve">
+    <value>Đang chờ xử lý</value>
+  </data>
+  <data name="Phonenumber" xml:space="preserve">
+    <value>Số điện thoại</value>
+  </data>
+  <data name="Please add criteria for the gift items" xml:space="preserve">
+    <value>Vui lòng thêm tiêu chí cho hàng tặng</value>
+  </data>
+  <data name="Please login to view this shopping cart information" xml:space="preserve">
+    <value>Vui lòng đăng nhập để được xem thông tin giỏ hàng này</value>
+  </data>
+  <data name="Please select item ott combo item to purchase" xml:space="preserve">
+    <value>Vui lòng chọn sản phẩm hoặc gói sản phẩm để mua</value>
+  </data>
+  <data name="Please select promotional items." xml:space="preserve">
+    <value>Vui lòng chọn sản phẩm khuyến mãi.</value>
+  </data>
+  <data name="Please select the applicable gift item" xml:space="preserve">
+    <value>Vui lòng chọn sản phẩm tặng được áp dụng</value>
+  </data>
+  <data name="Please select the applicable group" xml:space="preserve">
+    <value>Vui lòng chọn nhóm áp dụng</value>
+  </data>
+  <data name="Please select the applicable item" xml:space="preserve">
+    <value>Vui lòng chọn sản phẩm được áp dụng</value>
+  </data>
+  <data name="Please select the applicable sale item" xml:space="preserve">
+    <value>Vui lòng chọn sản phẩm bán được áp dụng</value>
+  </data>
+  <data name="Please select the corresponding voucher" xml:space="preserve">
+    <value>Vui lòng chọn voucher tương ứng</value>
+  </data>
+  <data name="Pre-tax amount" xml:space="preserve">
+    <value>Tổng tiền trước thuế</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>Giá</value>
+  </data>
+  <data name="Price in USD" xml:space="preserve">
+    <value>Giá USD</value>
+  </data>
+  <data name="Primary profile" xml:space="preserve">
+    <value>Thông tin chính</value>
+  </data>
+  <data name="Product" xml:space="preserve">
+    <value>Mẫu sản phẩm</value>
+  </data>
+  <data name="Product is sold out. Please try again later !!!" xml:space="preserve">
+    <value>Sản phẩm đang ngừng bán. Vui lòng thử lại sau !!!</value>
+  </data>
+  <data name="Product prices cannot be created in the past" xml:space="preserve">
+    <value>Không thể tạo giá sản phẩm trong quá khứ</value>
+  </data>
+  <data name="Product Testimonial" xml:space="preserve">
+    <value>Chứng nhận sản phẩm</value>
+  </data>
+  <data name="Product type" xml:space="preserve">
+    <value>Loại mẫu sản phẩm</value>
+  </data>
+  <data name="product with promotions" xml:space="preserve">
+    <value>sản phẩm đang có chương trình khuyến mãi</value>
+  </data>
+  <data name="Product with this resource" xml:space="preserve">
+    <value>Mẫu sản phẩm với tính năng này</value>
+  </data>
+  <data name="Progressive promotions have only one criteria" xml:space="preserve">
+    <value>Khuyến mãi lũy tiến chỉ có một tiêu chí</value>
+  </data>
+  <data name="Promotion Criteria" xml:space="preserve">
+    <value>Tiêu chí khuyến mãi</value>
+  </data>
+  <data name="Promotion Voucher" xml:space="preserve">
+    <value>Thiết lập voucher khuyến mãi</value>
+  </data>
+  <data name="PromotionCode" xml:space="preserve">
+    <value>Mã chương trình khuyến mãi</value>
+  </data>
+  <data name="Promotions cannot be canceled once they are active or in progress" xml:space="preserve">
+    <value>Không thể hủy chương trình khuyến mãi khi đã hoặc đang hoạt động</value>
+  </data>
+  <data name="Promotions cannot be deleted once they are active or in progress" xml:space="preserve">
+    <value>Không thể xóa chương trình khuyến mãi khi đã hoặc đang hoạt động</value>
+  </data>
+  <data name="Receipt voucher" xml:space="preserve">
+    <value>Phiếu thu</value>
+  </data>
+  <data name="Receipt voucher status" xml:space="preserve">
+    <value>Trạng thái phiếu thu</value>
+  </data>
+  <data name="Resource" xml:space="preserve">
+    <value>Tính năng</value>
+  </data>
+  <data name="resources" xml:space="preserve">
+    <value>tính năng</value>
+  </data>
+  <data name="Resources cannot be changed because there is already a item using this product" xml:space="preserve">
+    <value>Không thể thay đổi tính năng do đã có sản phẩm sử dụng mẫu sản phẩm này rồi</value>
+  </data>
+  <data name="SamePriceSameCurrencySameTime" xml:space="preserve">
+    <value>Tồn tại hai cấu hình giá cùng đơn vị tiền tệ trong một thời điểm</value>
+  </data>
+  <data name="SetupLoyaltyClass" xml:space="preserve">
+    <value>Vui lòng thiết lập khách hàng thân thiết trước khi tạo khách hàng</value>
+  </data>
+  <data name="ShoppingCart" xml:space="preserve">
+    <value>Giỏ hàng</value>
+  </data>
+  <data name="ShoppingCartDetail" xml:space="preserve">
+    <value>Chi tiết giỏ hàng</value>
+  </data>
+  <data name="ShoppingCartId" xml:space="preserve">
+    <value>Mã giỏ hàng</value>
+  </data>
+  <data name="Some courses were not found" xml:space="preserve">
+    <value>Không tìm thấy một số khóa học</value>
+  </data>
+  <data name="Some user information could not be found" xml:space="preserve">
+    <value>Không tìm thấy một số thông tin người dùng</value>
+  </data>
+  <data name="SomethingWrong" xml:space="preserve">
+    <value>Có lỗi xảy ra {0}</value>
+  </data>
+  <data name="Specific customer voucher cannot be exchanged with other types." xml:space="preserve">
+    <value>Không thể thay đổi voucher loại định danh với các thể loại khác.</value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>Trạng thái</value>
+  </data>
+  <data name="Subscription" xml:space="preserve">
+    <value>Gói đăng ký</value>
+  </data>
+  <data name="Tag" xml:space="preserve">
+    <value>Tag</value>
+  </data>
+  <data name="Tax" xml:space="preserve">
+    <value>Thuế</value>
+  </data>
+  <data name="Tax code" xml:space="preserve">
+    <value>Mã số thuế</value>
+  </data>
+  <data name="Template" xml:space="preserve">
+    <value>Loại mẫu</value>
+  </data>
+  <data name="The amount of" xml:space="preserve">
+    <value>Số tiền</value>
+  </data>
+  <data name="The available quantity is not enough to use for the promotion. Please double check the total quantity." xml:space="preserve">
+    <value>Số lượng có sẵn không đủ để sử dụng cho chương trình khuyến mãi. Vui lòng kiểm tra lại tổng số lượng.</value>
+  </data>
+  <data name="The end date for calculating total spending must be less than or equal to the current date." xml:space="preserve">
+    <value>Ngày kết thúc tính tổng chi tiêu phải nhỏ hơn hoặc bằng ngày hiện tại.</value>
+  </data>
+  <data name="The end date of calculating total spending must be greater than the starting date of calculating total spending." xml:space="preserve">
+    <value>Ngày kết thúc tính tổng chi tiêu phải lớn hơn ngày bắt đầu tính tổng chi tiêu</value>
+  </data>
+  <data name="The end time must be greater than the current date" xml:space="preserve">
+    <value>Ngày hết hạn phải lớn hơn ngày hiện tại</value>
+  </data>
+  <data name="The end time must be greater than the start time" xml:space="preserve">
+    <value>Ngày hết hạn phải lớn hơn ngày có hiệu lực</value>
+  </data>
+  <data name="The expiration is unique to digital products" xml:space="preserve">
+    <value>Kỳ hạn là duy nhất với sản phẩm kỹ thuật số</value>
+  </data>
+  <data name="The issued voucher code cannot be deleted" xml:space="preserve">
+    <value>Không thể xóa mã voucher đã phát hành</value>
+  </data>
+  <data name="The item information you want to delete from the shopping cart was not found" xml:space="preserve">
+    <value>Không tìm thấy thông tin sản phẩm muốn xóa khỏi giỏ hàng</value>
+  </data>
+  <data name="The length is not enough to generate code, please increase the length" xml:space="preserve">
+    <value>Độ dài không đủ để sinh mã vui lòng tăng độ dài</value>
+  </data>
+  <data name="The number of issued vouchers is greater than the number you want to change. Please check the information again." xml:space="preserve">
+    <value>Số lượng voucher đã phát hành lớn hơn số lượng muốn thay đổi. Vui lòng kiểm tra lại thông tin.</value>
+  </data>
+  <data name="The number of vouchers issued is not enough to be issued according to the desired conditions. Please check the voucher length or number of customers." xml:space="preserve">
+    <value>Số lượng phát hành voucher không đủ phát hành theo điều kiện mong muốn. Vui lòng kiểm tra lại độ dài voucher hoặc số lượng khách hàng.</value>
+  </data>
+  <data name="The shopping cart has already been paid for" xml:space="preserve">
+    <value>Giỏ hàng đã được thanh toán trước đó</value>
+  </data>
+  <data name="There already exists a product with this resource" xml:space="preserve">
+    <value>Đã tồn tại sản phẩm với khóa này rồi</value>
+  </data>
+  <data name="There are no customers who satisfy the voucher creation conditions." xml:space="preserve">
+    <value>Không có khách hàng thỏa mãn điều kiện tạo voucher.</value>
+  </data>
+  <data name="This event will be ignored because there is no course" xml:space="preserve">
+    <value>Sự kiện này sẽ được bỏ qua do không có khóa học tương ứng</value>
+  </data>
+  <data name="Total amount" xml:space="preserve">
+    <value>Tổng tiền</value>
+  </data>
+  <data name="UpdatedByOther" xml:space="preserve">
+    <value>Thông tin đã được thay đổi bởi một người khác. Vui lòng thử lại sau !!!</value>
+  </data>
+  <data name="UsedByOther" xml:space="preserve">
+    <value>{0} đã được sử dụng bởi một người khác</value>
+  </data>
+  <data name="User" xml:space="preserve">
+    <value>Người dùng</value>
+  </data>
+  <data name="Voucher" xml:space="preserve">
+    <value>Voucher</value>
+  </data>
+  <data name="Voucher issuance cannot be canceled once it has been or is active" xml:space="preserve">
+    <value>Không thể hủy phát hành voucher khi đã hoặc đang hoạt động</value>
+  </data>
+  <data name="VoucherInvalidOrUsed" xml:space="preserve">
+    <value>Mã voucher không hợp lệ hoặc đã được sử dụng: {0}</value>
+  </data>
+  <data name="WaitingConfirm" xml:space="preserve">
+    <value>Chờ xác nhận</value>
+  </data>
+  <data name="while converting promotion value" xml:space="preserve">
+    <value>trong khi chuyển đổi giá trị khuyến mãi</value>
+  </data>
+  <data name="while creating membership" xml:space="preserve">
+    <value>khi đang tạo gói thành viên</value>
+  </data>
+  <data name="while exchange price" xml:space="preserve">
+    <value>trong khi chuyển đổi giá tiền</value>
+  </data>
+  <data name="while processing the price" xml:space="preserve">
+    <value>trong quá trình xử lý giá</value>
+  </data>
+  <data name="You only have the right to set prices for the next hour onwards" xml:space="preserve">
+    <value>Bạn chỉ có quyền thiết lập giá cho một giờ tiếp theo trở đi</value>
+  </data>
+  <data name="Partner is already affiliated with another program" xml:space="preserve">
+    <value>Đối tác đã tham gia vào một chương trình giới thiệu khác</value>
+  </data>
+  <data name="Cannot delete the default program" xml:space="preserve">
+    <value>Không thể xóa chương trình mặc định</value>
+  </data>
+  <data name="There are affiliates in the program, the program affiliate cannot be deleted" xml:space="preserve">
+    <value>Có người giới thiệu tham gia chương trình giới thiệu liên kế, chương trình không thể xóa!</value>
+  </data>
+  <data name="has already registered for this course" xml:space="preserve">
+    <value>{0} đã đăng ký khóa học này rồi</value>
+  </data>
+  <data name="Enroll successful" xml:space="preserve">
+    <value>Đăng ký thành công</value>
+  </data>
+  <data name="You" xml:space="preserve">
+    <value>Bạn</value>
+  </data>
+  <data name="has already registered for this bundle" xml:space="preserve">
+    <value>{0} đã đăng ký gói khóa học này rồi</value>
+  </data>
+  <data name="has already registered for this membership" xml:space="preserve">
+    <value>{0} đã đăng ký gói thành viên này rồi</value>
+  </data>
+  <data name="has not registered for this bundle yet" xml:space="preserve">
+    <value>{0} chưa đăng ký gói khóa học này</value>
+  </data>
+  <data name="has not registered for this membership yet" xml:space="preserve">
+    <value>{0} chưa đăng ký gói thành viên này</value>
+  </data>
+  <data name="You have never registered for this bundle" xml:space="preserve">
+    <value>Bạn chưa từng đăng ký gói này</value>
+  </data>
+  <data name="You have never registered for this course" xml:space="preserve">
+    <value>Bạn chưa từng đăng ký khóa học này</value>
+  </data>
+  <data name="You have never registered for this membership" xml:space="preserve">
+    <value>Bạn chưa từng đăng ký gói thành viên này</value>
+  </data>
+  <data name="AffiliateId" xml:space="preserve">
+    <value>AffiliateId</value>
+  </data>
+  <data name="Currency field" xml:space="preserve">
+    <value>Currency field</value>
+  </data>
+  <data name="Commission field" xml:space="preserve">
+    <value>Commission field</value>
+  </data>
+  <data name="Referral" xml:space="preserve">
+    <value>Referral</value>
+  </data>
+  <data name="An error occurred during processing, please try again later" xml:space="preserve">
+    <value>Có lỗi xảy ra trong quá trình xử lý vui lòng thử lại sau</value>
+  </data>
+  <data name="An error occurred while connecting to Paypal. Please contact the administrator for more information." xml:space="preserve">
+    <value>Có lỗi xảy ra khi kết nối với Paypal. Vui lòng liên hệ quản trị viên để biết thêm thông tin.</value>
+  </data>
+  <data name="Orders are created for authorization purposes. Please authorize the order before confirming payment." xml:space="preserve">
+    <value>Đơn hàng được tạo với mục đích ủy quyền. Vui lòng cấp quyền cho đơn hàng trước khi xác nhận thanh toán.</value>
+  </data>
+  <data name="The customer has not accepted payment for the order" xml:space="preserve">
+    <value>Khách hàng chưa chấp nhận thanh toán đơn hàng</value>
+  </data>
+  <data name="The order has been successfully confirmed previously" xml:space="preserve">
+    <value>Đơn hàng đã được xác nhận thành công trước đó</value>
+  </data>
+  <data name="Receipt" xml:space="preserve">
+    <value>Biên nhận</value>
+  </data>
+  <data name="Calender detail" xml:space="preserve">
+    <value>ngày {0} tháng {1} {2}</value>
+  </data>
+  <data name="Check-in" xml:space="preserve">
+    <value>Ngày nhận phòng</value>
+  </data>
+  <data name="Contact Number" xml:space="preserve">
+    <value>Số điện thoại liên lạc</value>
+  </data>
+  <data name="Customer details" xml:space="preserve">
+    <value>Thông tin khách hàng</value>
+  </data>
+  <data name="Date" xml:space="preserve">
+    <value>Ngày tháng</value>
+  </data>
+  <data name="Duration" xml:space="preserve">
+    <value>Thời gian lưu trú</value>
+  </data>
+  <data name="Enquiries" xml:space="preserve">
+    <value>Nếu thắc mắc thêm vui lòng liên hệ với chúng tôi:</value>
+  </data>
+  <data name="Guest" xml:space="preserve">
+    <value>Khách hàng</value>
+  </data>
+  <data name="Passengers" xml:space="preserve">
+    <value>Thông tin hành khách</value>
+  </data>
+  <data name="Hotel details" xml:space="preserve">
+    <value>Chi tiết khách sạn</value>
+  </data>
+  <data name="Hotel room" xml:space="preserve">
+    <value>Phòng khách sạn</value>
+  </data>
+  <data name="Invoice details" xml:space="preserve">
+    <value>Chi tiết đơn hàng</value>
+  </data>
+  <data name="Invoice Paid" xml:space="preserve">
+    <value>Đã thanh toán</value>
+  </data>
+  <data name="Invoice tax" xml:space="preserve">
+    <value>Thuế</value>
+  </data>
+  <data name="Invoice total" xml:space="preserve">
+    <value>Tổng cộng</value>
+  </data>
+  <data name="Item Description" xml:space="preserve">
+    <value>Chi tiết</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>Mô tả</value>
+  </data>
+  <data name="Method" xml:space="preserve">
+    <value>Phương thức thanh toán</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Tên</value>
+  </data>
+  <data name="night" xml:space="preserve">
+    <value>{0} đêm</value>
+  </data>
+  <data name="Order Number" xml:space="preserve">
+    <value>Mã đơn hàng</value>
+  </data>
+  <data name="Order status" xml:space="preserve">
+    <value>Trạng thái</value>
+  </data>
+  <data name="P.O Number" xml:space="preserve">
+    <value>Mã đơn hàng</value>
+  </data>
+  <data name="Payment amount" xml:space="preserve">
+    <value>Số tiền thanh toán</value>
+  </data>
+  <data name="Payment details" xml:space="preserve">
+    <value>Thông tin thanh toán</value>
+  </data>
+  <data name="Phone" xml:space="preserve">
+    <value>Điện thoại</value>
+  </data>
+  <data name="Price per unit" xml:space="preserve">
+    <value>Giá mỗi đơn vị</value>
+  </data>
+  <data name="Qty" xml:space="preserve">
+    <value>Số</value>
+  </data>
+  <data name="Qty2" xml:space="preserve">
+    <value>lượng</value>
+  </data>
+  <data name="Reschedule" xml:space="preserve">
+    <value>Đổi lịch</value>
+  </data>
+  <data name="Terms and Condition" xml:space="preserve">
+    <value>Điều khoản và Điều kiện được áp dụng. vui lòng tham khảo {0}</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Tổng</value>
+  </data>
+  <data name="Type of item" xml:space="preserve">
+    <value>Hạng mục</value>
+  </data>
+  <data name="Create successfull" xml:space="preserve">
+    <value>Tạo mới thành công</value>
+  </data>
+  <data name="Delete successfull" xml:space="preserve">
+    <value>Xóa thành công</value>
+  </data>
+  <data name="Partner Name" xml:space="preserve">
+    <value>Tên khách hàng</value>
+  </data>
+  <data name="Value must be multilanguage for attributeCode {0}" xml:space="preserve">
+    <value>Giá trị phải là đa ngôn ngữ cho các thuộc tính: {0}</value>
+  </data>
+  <data name="Value must be multilanguage for {0}" xml:space="preserve">
+    <value>{0} phải là đa ngôn ngữ</value>
+  </data>
+  <data name="Platform" xml:space="preserve">
+    <value>Nền tảng</value>
+  </data>
+  <data name="Required" xml:space="preserve">
+    <value>{0} là bắt buộc</value>
+  </data>
+  <data name="AffiliateCriteria" xml:space="preserve">
+    <value>Điều kiện áp dụng</value>
+  </data>
+  <data name="AttributeCode" xml:space="preserve">
+    <value>Mã thuộc tính</value>
+  </data>
+  <data name="AttributeType" xml:space="preserve">
+    <value>Loại thuộc tính</value>
+  </data>
+  <data name="AttributeValueSourceType" xml:space="preserve">
+    <value>Nguồn dữ liệu</value>
+  </data>
+  <data name="AttributeValueType" xml:space="preserve">
+    <value>Loại giá trị</value>
+  </data>
+  <data name="BookingCode" xml:space="preserve">
+    <value>Mã đặt phòng</value>
+  </data>
+  <data name="ClientId" xml:space="preserve">
+    <value>Mã định danh ứng dụng</value>
+  </data>
+  <data name="Currency" xml:space="preserve">
+    <value>Đơn vị tiền tệ</value>
+  </data>
+  <data name="DeviceId" xml:space="preserve">
+    <value>Mã định danh thiết bị</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="Id" xml:space="preserve">
+    <value>Mã định danh</value>
+  </data>
+  <data name="Note" xml:space="preserve">
+    <value>Ghi chú</value>
+  </data>
+  <data name="Photo" xml:space="preserve">
+    <value>Ảnh</value>
+  </data>
+  <data name="PhotoId" xml:space="preserve">
+    <value>Mã định danh ảnh</value>
+  </data>
+  <data name="PhotoUrl" xml:space="preserve">
+    <value>Đường dẫn của ảnh</value>
+  </data>
+  <data name="ProductCode" xml:space="preserve">
+    <value>Mã sản phẩm</value>
+  </data>
+  <data name="ProgramId" xml:space="preserve">
+    <value>Mã định danh chương trình</value>
+  </data>
+  <data name="ProgramName" xml:space="preserve">
+    <value>Tên chương trình</value>
+  </data>
+  <data name="Quantity" xml:space="preserve">
+    <value>Số lượng</value>
+  </data>
+  <data name="SearchText" xml:space="preserve">
+    <value>Nội dung tìm kiếm</value>
+  </data>
+  <data name="Seller" xml:space="preserve">
+    <value>Người bán</value>
+  </data>
+  <data name="ServiceCode" xml:space="preserve">
+    <value>Mã dịch vụ</value>
+  </data>
+  <data name="ShoppingCartDetai" xml:space="preserve">
+    <value>Chi tiết giỏ hàng</value>
+  </data>
+  <data name="ShoppingCartDetailId" xml:space="preserve">
+    <value>Mã định danh chi tiết giỏ hàng</value>
+  </data>
+  <data name="StartTime" xml:space="preserve">
+    <value>Thời gian bắt đầu</value>
+  </data>
+  <data name="TargetCode" xml:space="preserve">
+    <value>Mã đối tượng</value>
+  </data>
+  <data name="TenantCode" xml:space="preserve">
+    <value>Mã người thuê</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>Tên</value>
+  </data>
+  <data name="UserId" xml:space="preserve">
+    <value>Mã định danh người dùng</value>
+  </data>
+  <data name="CustomRequired" xml:space="preserve">
+    <value>{0} là bắt buộc</value>
+  </data>
+  <data name="CustomStringLength_Validate" xml:space="preserve">
+    <value>{0} chỉ được chứa tối đa {1} kí tự</value>
+  </data>
+  <data name="GroupId" xml:space="preserve">
+    <value>Mã định danh phòng ban</value>
+  </data>
+  <data name="PaymentAccount" xml:space="preserve">
+    <value>Thông tin thanh toán</value>
+  </data>
+  <data name="TransferPaymentDefault" xml:space="preserve">
+    <value>Vui lòng chuyển thông tin thanh toán mặc định trước khi xóa thông tin mặc định.</value>
+  </data>
+  <data name="UpdatedBefore" xml:space="preserve">
+    <value>Thông tin đã được cập nhật bởi một người khác. Vui lòng thử lại sau !!</value>
+  </data>
+  <data name="Timerange Detail" xml:space="preserve">
+    <value>Chi tiết giai đoạn</value>
+  </data>
+  <data name="Timerange Detail is conflict time" xml:space="preserve">
+    <value>Chi tiết giai đoạn bị xung đột thời gian</value>
+  </data>
+  <data name="Manager" xml:space="preserve">
+    <value>Người quản lý</value>
+  </data>
+  <data name="Default payment account required" xml:space="preserve">
+    <value>Bắt buộc phải có thẻ thanh toán mặc định</value>
+  </data>
+  <data name="AdminFee" xml:space="preserve">
+    <value>ADMINISTRATION FEE</value>
+  </data>
+  <data name="HeaderRequired" xml:space="preserve">
+    <value>{0} là bắt buộc gửi kèm theo header</value>
+  </data>
+  <data name="PaymentNotSupport" xml:space="preserve">
+    <value>Phương thức thanh toán chưa được hỗ trợ</value>
+  </data>
+  <data name="Paid invoices exist" xml:space="preserve">
+    <value>Tồn tại hóa đơn đã thanh toán</value>
+  </data>
+  <data name="Please choose invoices in the same currency" xml:space="preserve">
+    <value>Vui lòng chọn hóa đơn cùng đơn vị tiền tệ</value>
+  </data>
+  <data name="Partner Photo" xml:space="preserve">
+    <value>Ảnh</value>
+  </data>
+  <data name="Payment error" xml:space="preserve">
+    <value>Thanh toán bằng ví công nợ không thành công</value>
+  </data>
+  <data name="There already exists a debt account with this organization" xml:space="preserve">
+    <value>Đã tồn tại tài khoản công nợ với tổ chức này rồi</value>
+  </data>
+  <data name="Payment Account" xml:space="preserve">
+    <value>Tài khoản thanh toán</value>
+  </data>
+  <data name="Can not delete service fee setting default" xml:space="preserve">
+    <value>Không thể xóa cài đặt phí dịch vụ mặc định.</value>
+  </data>
+  <data name="Can not delete service fee setting is active" xml:space="preserve">
+    <value>Không thể xóa cài đặt phí dịch vụ đã họat động.</value>
+  </data>
+  <data name="The order has expired for payment" xml:space="preserve">
+    <value>Đơn hàng đã hết hạn thanh toán</value>
+  </data>
+  <data name="PermissionOnIssuedOnly" xml:space="preserve">
+    <value>Chỉ có quyền thao tác trên các đơn hàng đã xuất vé</value>
+  </data>
+  <data name="Exceeded allowable limit" xml:space="preserve">
+    <value>Vượt quá giới hạn cho phép</value>
+  </data>
+  <data name="BillingCycle" xml:space="preserve">
+    <value>Kỳ hạn</value>
+  </data>
+  <data name="BillingCycle must be greater than 0" xml:space="preserve">
+    <value>kỳ hạn phải lớn hơn 0</value>
+  </data>
+  <data name="CreditLimit" xml:space="preserve">
+    <value>Hạn mức tối đa</value>
+  </data>
+  <data name="CurrentCycle" xml:space="preserve">
+    <value>Ngày hiệu lực</value>
+  </data>
+  <data name="CurrentCycle must be greater than created account date" xml:space="preserve">
+    <value>Ngày hiệu lực phải lớn hơn ngày tạo ví</value>
+  </data>
+  <data name="New credit limit is invalid" xml:space="preserve">
+    <value>Giới hạn thanh toán mới không hợp lệ</value>
+  </data>
+  <data name="The function is not supported yet" xml:space="preserve">
+    <value>Chức năng chưa hỗ trợ</value>
+  </data>
+  <data name="Insufficient balance please try another method" xml:space="preserve">
+    <value>Số dư không đủ vui lòng thử phương thức khác</value>
+  </data>
+  <data name="Payment Account not yet effective date" xml:space="preserve">
+    <value>Ví công nợ chưa đến ngày hiệu lực</value>
+  </data>
+  <data name="Please deposit money into your payment account to continue using" xml:space="preserve">
+    <value>Đã hết kỳ hạn mà chưa thanh toán dư nợ. Vui lòng thanh toán  để tiếp tục sử dụng.</value>
+  </data>
+  <data name="There are main partner of the company" xml:space="preserve">
+    <value>Đã tồn tại khách hàng chính của công ty</value>
+  </data>
+  <data name="Organization do not have partner default" xml:space="preserve">
+    <value>Tổ chức chưa có khách hàng mặc định</value>
+  </data>
+  <data name="Booking" xml:space="preserve">
+    <value>Đặt chỗ</value>
+  </data>
+  <data name="Receive Voucher not found" xml:space="preserve">
+    <value>Không tìm thấy yêu cầu nạp tiền</value>
+  </data>
+  <data name="Amount must be greater than 0" xml:space="preserve">
+    <value>Số tiền phải lớn hơn 0</value>
+  </data>
+  <data name="Document is required" xml:space="preserve">
+    <value>Tài liệu đính kèm là bắt buộc</value>
+  </data>
+  <data name="Do not delete request recharge is approve" xml:space="preserve">
+    <value>Không được xóa yêu cầu nạp tiền đã được duyệt</value>
+  </data>
+  <data name="Partner is not partner default" xml:space="preserve">
+    <value>Khách hàng không phải khách hàng mặc định</value>
+  </data>
+  <data name="BeingUpdated" xml:space="preserve">
+    <value>Tính năng đang được cập nhật</value>
+  </data>
+  <data name="OrderId" xml:space="preserve">
+    <value>Mã định danh đơn hàng</value>
+  </data>
+  <data name="Reason" xml:space="preserve">
+    <value>Lý do</value>
+  </data>
+  <data name="Invalid refund amount" xml:space="preserve">
+    <value>Số tiền hoàn không hợp lệ</value>
+  </data>
+  <data name="Please set the credit limit for your account" xml:space="preserve">
+    <value>Vui lòng thiết lập hạn mức cho tài khoản</value>
+  </data>
+  <data name="Wallet balance is not enough to pay" xml:space="preserve">
+    <value>Số dư ví không đủ để thanh toán</value>
+  </data>
+  <data name="Partner do not have payment account" xml:space="preserve">
+    <value>Khách hàng chưa có tài khoản ví công nợ</value>
+  </data>
+  <data name="The amount required to deposit must be smaller than the used amount" xml:space="preserve">
+    <value>Số tiền yêu cầu nạp phải nhỏ hơn hạn mức đã dùng</value>
+  </data>
+  <data name="The total amount required to deposit must be smaller than the credit limit" xml:space="preserve">
+    <value>Tổng số tiền yêu cầu nạp phải nhỏ hơn hạn mức được cấp</value>
+  </data>
+  <data name="OrderType" xml:space="preserve">
+    <value>Loại đơn hàng</value>
+  </data>
+  <data name="PaymentMethod" xml:space="preserve">
+    <value>Phương thức thanh toán</value>
+  </data>
+  <data name="InvalidToken" xml:space="preserve">
+    <value>Chứng thực không hợp lệ</value>
+  </data>
+  <data name="No data" xml:space="preserve">
+    <value>Không có dữ liệu</value>
+  </data>
+  <data name="Partner organization" xml:space="preserve">
+    <value>Công ty liên kết</value>
+  </data>
+  <data name="Partner organization default" xml:space="preserve">
+    <value>Công ty liên kết mặc định</value>
+  </data>
+  <data name="The organization is not same owner" xml:space="preserve">
+    <value>Công ty liên kết không chung chủ</value>
+  </data>
+  <data name="There are partner organization of the company" xml:space="preserve">
+    <value>Đã tồn tại khách hàng liên kết với công ty này.</value>
+  </data>
+  <data name="Owner email incorect" xml:space="preserve">
+    <value>Email chủ tổ chức không khớp</value>
+  </data>
+  <data name="day" xml:space="preserve">
+    <value>ngày</value>
+  </data>
+  <data name="BookingPhone" xml:space="preserve">
+    <value>Điện thoại</value>
+  </data>
+  <data name="Budget is conflict, please check again!" xml:space="preserve">
+    <value>Ngân sách bị trùng, vui lòng kiểm tra lại</value>
+  </data>
+  <data name="Can not delete price tag is active" xml:space="preserve">
+    <value>Không thể xóa price tag đang được sử dụng!</value>
+  </data>
+  <data name="SamePriceSameTimeSameTime" xml:space="preserve">
+    <value>Tồn tại hai giá cùng thời điểm</value>
+  </data>
+  <data name="Payment amount is larger than the debt" xml:space="preserve">
+    <value>Số tiền thanh toán lớn hơn ví công nợ</value>
+  </data>
+  <data name="Cannot delete the default affiliate program" xml:space="preserve">
+    <value>Không thể xóa trương trình liên kết giới thiệu mặc định</value>
+  </data>
+  <data name="Your confirmation term has expired! The order was canceled" xml:space="preserve">
+    <value>Thời hạn xác nhận của bạn đã hết hạn! Đơn hàng đã bị hủy</value>
+  </data>
+  <data name="CheckInFuture" xml:space="preserve">
+    <value>Thời gian nhận phòng phải lớn hơn thời điểm hiện tại</value>
+  </data>
+  <data name="Hotel" xml:space="preserve">
+    <value>Khách sạn</value>
+  </data>
+  <data name="NotComboPrice" xml:space="preserve">
+    <value>Đây không phải là giá theo gói. Vui lòng chọn lại !!!</value>
+  </data>
+  <data name="NotProvide" xml:space="preserve">
+    <value>{0} không được cung cấp bởi nguồn yêu cầu</value>
+  </data>
+  <data name="Original data" xml:space="preserve">
+    <value>Dữ liệu gốc</value>
+  </data>
+  <data name="Rate" xml:space="preserve">
+    <value>Gói</value>
+  </data>
+  <data name="Retrieving hotel information failed" xml:space="preserve">
+    <value>Nhận thông tin khách sạn thất bại</value>
+  </data>
+  <data name="Room" xml:space="preserve">
+    <value>Phòng</value>
+  </data>
+  <data name="Need to confirm price" xml:space="preserve">
+    <value>Cần xác nhận lại giá</value>
+  </data>
+  <data name="Waiting confirm paymented" xml:space="preserve">
+    <value>Chờ xác nhận đã thanh toán</value>
+  </data>
+  <data name="Id is Required" xml:space="preserve">
+    <value>Id là bắt buộc</value>
+  </data>
+  <data name="has not registered for this course yet" xml:space="preserve">
+    <value>{0} chưa đăng ký khóa học này</value>
+  </data>
+  <data name="Order Date" xml:space="preserve">
+    <value>Ngày tạo đơn</value>
+  </data>
+  <data name="Someone updated it" xml:space="preserve">
+    <value>Vui lòng thử lại do có người đã cập nhật trước đó</value>
+  </data>
+  <data name="Product addon" xml:space="preserve">
+    <value>Sản phẩm bổ sung</value>
+  </data>
+  <data name="Product already has additional products, product type cannot be changed" xml:space="preserve">
+    <value>Không thể thay đổi loại sản phẩm khi có sản phẩm bổ sung.</value>
+  </data>
+  <data name="The product addon has been applied to the product. Can not change type product" xml:space="preserve">
+    <value>Sản phẩm bổ sung đã được áp dụng cho sản phẩm khác. Không thể thay đổi loại sản phẩm</value>
+  </data>
+  <data name="The product addon has been applied to the product. Can not delete product" xml:space="preserve">
+    <value>Sản phẩm bổ sung đã được áp dụng trong sản phẩm chính. Bạn không thể xóa</value>
+  </data>
+  <data name="Can not delete item price retailPrice apply timerange default" xml:space="preserve">
+    <value>Không thể xóa giá mặc định cho sản phẩm</value>
+  </data>
+  <data name="Item Addon" xml:space="preserve">
+    <value>Biến thể bổ sung</value>
+  </data>
+  <data name="Start time, end time" xml:space="preserve">
+    <value>Thời gian bắt đầu (kết thúc)</value>
+  </data>
+  <data name="Price tag retail" xml:space="preserve">
+    <value>Giá bán lẽ</value>
+  </data>
+  <data name="Retail Price" xml:space="preserve">
+    <value>Giá bán lẻ</value>
+  </data>
+  <data name="End time greater than present" xml:space="preserve">
+    <value>Thời gian kết thúc phải lớn hơn hiện tại</value>
+  </data>
+  <data name="SamePrice" xml:space="preserve">
+    <value>Tồn tại giá tiền cùng một thời điểm</value>
+  </data>
+  <data name="End time greater startTime" xml:space="preserve">
+    <value>Thời gian kết thúc phải lớn hơn thời gian bắt đầu</value>
+  </data>
+  <data name="Can not change time for item price default" xml:space="preserve">
+    <value>Không thể cập nhật thời gian cho bản giá thời gian mặt định</value>
+  </data>
+  <data name="PaymentAmountGreaterThanAmountDue" xml:space="preserve">
+    <value>Số tiền thanh toán lớn hơn số tiền cần trả</value>
+  </data>
+  <data name="ItemSupplier" xml:space="preserve">
+    <value>Thiết lập nhà cung cấp</value>
+  </data>
+  <data name="ItemSupplierDefault" xml:space="preserve">
+    <value>Nhà cung cấp mặc định</value>
+  </data>
+  <data name="ItemSupplierSupplier" xml:space="preserve">
+    <value>Nhà cung cấp sản phẩm</value>
+  </data>
+  <data name="Cannot delete applied code" xml:space="preserve">
+    <value>Không thể xóa thời gian đang được áp dụng</value>
+  </data>
+  <data name="Time range code" xml:space="preserve">
+    <value>mã thời gian</value>
+  </data>
+  <data name="Custom time range same time" xml:space="preserve">
+    <value>Trùng khoảng thời gian trong thiết lập theo khoảng thời gian</value>
+  </data>
+  <data name="Fixed price over time is mandatory" xml:space="preserve">
+    <value>Vui lòng nhập giá cố định cho sản phẩm</value>
+  </data>
+  <data name="Day of week" xml:space="preserve">
+    <value>Thứ trong tuần</value>
+  </data>
+  <data name="Duplicate price default" xml:space="preserve">
+    <value>Trùng giá cố định</value>
+  </data>
+  <data name="Price default" xml:space="preserve">
+    <value>Giá thời gian cố định</value>
+  </data>
+  <data name="Agent" xml:space="preserve">
+    <value>Đại lý</value>
+  </data>
+  <data name="Adult" xml:space="preserve">
+    <value>Người lớn</value>
+  </data>
+  <data name="Occupancy" xml:space="preserve">
+    <value>Số lượng thành viên</value>
+  </data>
+  <data name="CheckinoutDuplicate" xml:space="preserve">
+    <value>Không thế trùng thời gian nhận và trả phòng</value>
+  </data>
+  <data name="Amount is not valid" xml:space="preserve">
+    <value>Số tiền không hợp lệ</value>
+  </data>
+  <data name="Partner not apply payment method" xml:space="preserve">
+    <value>Khách hàng không áp dụng phương thức thanh toán công nợ</value>
+  </data>
+  <data name="Partner have not payment account" xml:space="preserve">
+    <value>Khách hàng không có tài khoản thanh toán công nợ. vui lòng tạo tài khoản công nợ để sử dụng</value>
+  </data>
+</root>

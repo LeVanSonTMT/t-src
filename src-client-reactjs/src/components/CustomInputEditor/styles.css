@@ -1,0 +1,18 @@
+.jodit-react-container{
+    opacity: 1;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #344767;
+    font-size: 0.875rem;
+    text-transform: none;
+    text-decoration: none;
+    vertical-align: unset;
+    letter-spacing: 0.02857em;
+}
+
+.MuiDialogContent-root .jodit-workplace {
+    max-height: unset !important;
+}
+
+/* hotfix ResizeObserver loop completed with undelivered notifications. */
+iframe#webpack-dev-server-client-overlay{display:none!important}

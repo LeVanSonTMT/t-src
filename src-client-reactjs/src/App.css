@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(244, 246, 248) !important;
+}
+
+:root {
+    --font-size-small: 13px;
+    --font-size-default: 15px;
+    --font-size-medium: 18px;
+    --font-size-large: 24px;
+    --font-size-xlarge: 27px;
+    --font-size-xxlarge: 33px;
+}
+
+.MuiTypography-root {
+    line-height: 1.5;
+    text-transform: none;
+}
+
+.swal2-container,
+.custom-sweetalert2 {
+    z-index: 999999 !important;
+}
+
+.swal2-html-container {
+    font-size: 1rem !important;
+}
+
+.custom-sweetalert2-btn-cancel {
+    min-width: 37px !important;
+    font-size: 0.875em !important;
+    background: linear-gradient(195deg, #a5a5a5, #888888) !important;
+}
+
+.custom-sweetalert2-btn-cancel:hover {
+    background: #888888 !important;
+}
+
+.custom-sweetalert2-btn-ok {
+    min-width: 37px !important;
+    font-size: 0.857em !important;
+    background: linear-gradient(195deg, #1976d2, #1565c0) !important;
+}
+
+.custom-sweetalert2-btn-ok:hover {
+    background: #1565c0 !important;
+}
+
+.swal2-styled.swal2-confirm:focus {
+    box-shadow: none !important;
+}
+
+
+/* 
+#7b809a 
+rgb(123, 128, 154)  
+linear-gradient(195deg, rgb(66, 66, 74), rgb(25, 25, 25))
+1a73e8
+*/
