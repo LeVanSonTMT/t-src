@@ -86,12 +86,13 @@ const LoginScreen = () => {
 
     return (
         <Box sx={{
-            height: "100%",
             display: "flex",
             overflow: "auto",
             alignItems: "center",
             flexDirection: "column",
             justifyContent: "center",
+            position: "relative",
+            top: "calc(calc(100vh - 548px) / 2)",
         }}>
             <Loading visible={loading} />
             <Card sx={{
@@ -99,13 +100,13 @@ const LoginScreen = () => {
                 boxShadow: 2,
                 borderRadius: "8px",
             }}>
-                <Box sx={{ display: "flex", height: "550px", }}>
+                <Box sx={{ display: "flex", height: "500px", }}>
                     <Box sx={{
                         p: 0, m: 0,
                         display: { xs: "none", md: "block" },
                         bgcolor: Constants.Colors.primary.main,
                         "#bg_login": {
-                            width: { xs: "auto", sm: "auto", md: "550px", lg: "650px" },
+                            width: { xs: "auto", sm: "auto", md: "500px", lg: "500px" },
                             height: "100%",
                             objectFit: "cover",
                         }
