@@ -86,8 +86,7 @@ const LoginScreen = () => {
 
     return (
         <Box sx={{
-            width: "100vw",
-            height: "100vh",
+            height: "100%",
             display: "flex",
             overflow: "auto",
             alignItems: "center",
@@ -100,7 +99,7 @@ const LoginScreen = () => {
                 boxShadow: 2,
                 borderRadius: "8px",
             }}>
-                <Box sx={{ display: "flex", height: "70vh", }}>
+                <Box sx={{ display: "flex", height: "550px", }}>
                     <Box sx={{
                         p: 0, m: 0,
                         display: { xs: "none", md: "block" },
